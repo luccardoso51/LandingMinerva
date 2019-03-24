@@ -343,7 +343,7 @@ section.section {
 ============================= */
 
 #parallax1{
-	background-image: url("../img/ban2.jpg");
+	background-image: url("../img/feature-bg.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -355,7 +355,7 @@ section.section {
 	background-size: cover;
 }
 #testimonials{
-	background-image: url("../img/ban4.jpg");
+	background-image: url("../img/banner-bg.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
