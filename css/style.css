@@ -405,9 +405,8 @@ section.section {
 }
 #logoMinerva {
   width: 450px;
-  margin-bottom: -65px;
+  margin-bottom: -60;
 }
-
 /* ==========================
  --- Parallax ---
 ============================= */
@@ -461,7 +460,7 @@ section.section {
   height: 100%;
   line-height: 100%;
   vertical-align: middle;
-  color: #fff;
+  color: rgb(255, 234, 49);
   font-weight: 700;
   font-size: 13px;
   letter-spacing: 0.1em;
@@ -469,7 +468,7 @@ section.section {
 }
 
 .nav > li > a:hover {
-  color: #fff;
+  color: rgb(255, 214, 88);
   background: none;
 }
 
@@ -480,15 +479,15 @@ section.section {
 }
 
 .navbar .navbar-nav > .active > a {
-  color: #fff;
+  color: #ffffff;
 }
 .navbar .navbar-nav > .active > a {
-  padding-bottom: 22px;
+  padding-bottom: 18px;
 }
 
 h1 a.navbar-brand {
-  font-size: 30px;
-  color: floralwhite;
+  font-size: 50px;
+  color: white;
   font-weight: 900;
   text-shadow: none;
 }
@@ -497,7 +496,7 @@ h1 a.navbar-brand {
   padding: 0;
   display: table-cell;
   vertical-align: middle;
-  line-height: 90px;
+  line-height: 100px;
 }
 
 .navbar-brand img {
@@ -507,7 +506,7 @@ h1 a.navbar-brand {
 .navbar-toggle {
   padding: 0;
   margin: 0;
-  width: 80px;
+  width: 100px;
 }
 
 .navbar-collapse.in {
@@ -1174,10 +1173,10 @@ Media queries
     background-color: #fcb01d;
   }
   .navbar .navbar-collapse ul.nav {
-    background-color: #525252;
+    background-color: #ffffff;
     width: 100%;
     float: none;
-    max-resolution: 10px;
+    image-resolution: 10px;
     padding: 0;
   }
   .navbar .navbar-collapse ul.nav li {
